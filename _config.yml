@@ -34,6 +34,10 @@ example_site: "https://swcarpentry.github.com/lesson-example"
 workshop_repo: "https://github.com/swcarpentry/workshop-template"
 workshop_site: "https://swcarpentry.github.io/workshop-template"
 training_site: "https://carpentries.github.io/instructor-training"
+nlesc_site: "https://www.esciencecenter.nl/"
+dtl_site: "https://www.dtls.nl/"
+surfsara_site: "https://www.surf.nl/en/about-surf/subsidiaries/surfsara/"
+umc_u_site: "http://umcutrecht.nl/nl/"
 
 # Surveys.
 pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
